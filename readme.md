@@ -1,7 +1,13 @@
 #
 
-This repository contain the resources for the PS4016 module running Fall 2021 at University of St Andrews.  Instucture Justin Ales. 
+This repository contain the resources for the PS4016 module running Fall 2021 at University of St Andrews.  Instructor: Justin Ales. 
 
+Use the following URL or the button below to launch this in a cloud hosted jupyter notebook. 
+
+https://mybinder.org/v2/gh/aleslab/PS4106_2021-22/master
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aleslab/PS4106_2021-22/master)
 
 # Resources
 Helpful Resources for PS4106 Students
