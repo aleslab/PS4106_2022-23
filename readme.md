@@ -14,6 +14,12 @@ Helpful Resources for PS4106 Students
 
 #### Data Science Textbooks:
 
+We will be using examples and excercises from various sources.  These following 
+
+Python Data Science Handbook
+By Jake VanderPlas
+https://github.com/jakevdp/PythonDataScienceHandbook
+
 Computational and Inferential Thinking: The Foundations of Data Science
 2nd Edition by Ani Adhikari, John DeNero, David Wagner.
 https://inferentialthinking.com/chapters/intro.html
